@@ -12,7 +12,6 @@ and learning how things work under the hood.
 
 ---
 
----
 
 ## 🚀 Featured Projects
 
