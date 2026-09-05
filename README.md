@@ -17,10 +17,10 @@ and learning how things work under the hood.
 
 | Project | Description | Tech |
 |:---:|---|---|
-| 🤖 **[OneAI](YOUR_LINK)** | Multi-model AI orchestration platform for breaking down complex tasks and routing them to suitable models. | Python · Generative AI · ML |
-| 🛡️ **[HumanityCheck](YOUR_LINK)** | AI-powered browser extension for detecting AI-generated and deepfake content. | Python · FastAPI · React · ML |
-| 🎨 **[DoodleQuest](YOUR_LINK)** | Gamified learning platform with AI-generated stories, quizzes and interactive content. | MERN ·LLM's|
-| 💻 **[MiniKernel](YOUR_LINK)** | Exploring operating systems by building a simple kernel from scratch. | C++ · Oops. OS|
+| 🤖 **[OneAI](https://github.com/11Pk/OneAI)** | Multi-model AI orchestration platform for breaking down complex tasks and routing them to suitable models. | Python · Generative AI · ML |
+| 🛡️ **[HumanityCheck](https://github.com/11Pk/HumanityCheck)** | AI-powered browser extension for detecting AI-generated and deepfake content. | Python · FastAPI · React · ML |
+| 🎨 **[DoodleQuest](https://github.com/Vrinda2403/Doodle_Quest)** | Gamified learning platform with AI-generated stories, quizzes and interactive content. | MERN ·LLM's|
+| 💻 **[MiniKernel](https://github.com/11Pk/MiniKernel)** | Exploring operating systems by building a simple kernel from scratch. | C++ · Oops. OS|
 
 ---
 
